@@ -6,7 +6,7 @@ import aiohttp
 import discord
 import requests
 BOT_PREFIX = ("?", "!")
-TOKEN = "NDM4NDY2MjU1MTQyNTE4Nzg3.DcFBDg.WQiXAtYEEuwRyVKfZtKL21BbpUA"
+TOKEN = "i got  u token hahahhaahaha"
 
 client = Bot(command_prefix=BOT_PREFIX)
 
